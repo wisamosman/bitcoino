@@ -74,12 +74,21 @@ font-size: 68px;
 }
 .w4{
     color: white;
-    font-weight: 600;
+    font-weight: 700;
 }
 .w5{
     color: #D7D7D7;
 }
 .w6{
     width: 50px;
-    margin-top: 15px;
+    
+}
+.w7{
+    padding: 18px;
+    background-color: #022B36;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+.w{
+    height: 600px;
 }
