@@ -101,3 +101,23 @@ font-size: 68px;
 border: 2px solid #02DFBF;
 border-radius: 40px;
 }
+.e3{
+    font-weight: 700;
+    color: white;
+}
+.e5{
+    margin-left: 68px;
+}
+.e4{
+    color: #E6E6E6;
+    font-weight: 600;
+}
+.r1{
+    padding: 16px 30px;
+    background-color: #02DFBF;
+    border: 1px solid #02DEBE;
+    color: white;
+    font-weight: 700;
+    border-radius: 28px; 
+    text-decoration: none;
+}
