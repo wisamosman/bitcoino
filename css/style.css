@@ -92,3 +92,12 @@ font-size: 68px;
 .w{
     height: 600px;
 }
+.e1{
+    background-color: #07252A;
+}
+.e2{
+    background-color: #274E36;
+
+border: 2px solid #02DFBF;
+border-radius: 40px;
+}
