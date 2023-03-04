@@ -33,9 +33,31 @@ font-size: 18px;
 }
 .q4{
     color: white;
-font-size: 45px;
-    font-weight: 800;
+font-size: 68px;
+    font-weight: 700;
 }
 .q5{
     color: #02DEBE;
+}
+.q6{
+    font-weight: 600;
+    color: #D7D7D7;
+    font-size: 16px;
+}
+.q7{
+    padding: 16px 30px;
+    background-color: #02DFBF;
+    border: 1px solid #02DEBE;
+    color: white;
+    font-weight: 700;
+    border-radius: 28px; 
+    text-decoration: none;
+}
+.q8{
+    color: white;
+    margin-left: 35px;
+    margin-top: -50px;
+}
+.bi-play-circle{
+    margin-left: -65px;
 }
