@@ -61,3 +61,21 @@ font-size: 68px;
 .bi-play-circle{
     margin-left: -65px;
 }
+.w1{
+    background-color: #07252A;
+}
+.w2{
+    color: #02DEBE;
+}
+.w3{
+    color: white;
+    font-weight: 700;
+    font-size: 50px;
+}
+.w4{
+    color: white;
+    font-weight: 600;
+}
+.w5{
+    color: #D7D7D7;
+}
