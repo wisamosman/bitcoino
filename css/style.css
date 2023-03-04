@@ -1,18 +1,33 @@
 .q1{
-    padding-top: 20px;
+    padding-top: 15px;
     background-image: url(https://html.themexriver.com/Saasio/assets/img/crypto/bg/bn-bg.png);
 }
 .btn{
-    padding: 10px 25px;
+    padding: 16px 30px;
     background-color: #022B36;
     border: 1px solid #02DEBE;
     color: white;
     font-weight: 700;
+    border-radius: 28px;
 }
 .nav-link{
     color: white;
     font-weight: 600;
+display: inline;
+margin-left: 25px;
+font-size: 18px;
+
 }
 .navbar-nav{
-    margin-left: 150px;
+    margin-left: 75px;
+    
+}
+.navbar{
+    background-color: #022B36;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 15px;
+}
+.bi{
+    color: #02DEBE;
 }
