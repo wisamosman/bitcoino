@@ -1,0 +1,18 @@
+.q1{
+    padding-top: 20px;
+    background-image: url(https://html.themexriver.com/Saasio/assets/img/crypto/bg/bn-bg.png);
+}
+.btn{
+    padding: 10px 25px;
+    background-color: #022B36;
+    border: 1px solid #02DEBE;
+    color: white;
+    font-weight: 700;
+}
+.nav-link{
+    color: white;
+    font-weight: 600;
+}
+.navbar-nav{
+    margin-left: 150px;
+}
