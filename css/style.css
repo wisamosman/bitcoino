@@ -104,6 +104,7 @@ border-radius: 40px;
 .e3{
     font-weight: 700;
     color: white;
+    margin-top: 35px;
 }
 .e5{
     margin-left: 68px;
@@ -114,10 +115,10 @@ border-radius: 40px;
 }
 .r1{
     padding: 16px 30px;
-    background-color: #02DFBF;
+    background-color: #F8A501;
     border: 1px solid #02DEBE;
     color: white;
     font-weight: 700;
-    border-radius: 28px; 
+    border-radius: 10px; 
     text-decoration: none;
 }
